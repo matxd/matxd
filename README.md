@@ -12,9 +12,8 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-## ⚙️ &nbsp;Analytics
+<h2 align="center">⚙️ &nbsp;Analytics</h2>
 
-<p align="left">
-<img width="505em" src="https://github-readme-stats.vercel.app/api?username=matxd&show_icons=true&theme=nord" alt="matxd stats"/>
-<img width="505em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxd&layout=compact&theme=nord" alt="matxd most languages"/>
+<p align="center">
+  <img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxd&layout=compact&theme=nord" alt="matxd most languages"/>
 </p>
