@@ -15,5 +15,5 @@
 <h2 align="center">⚙️ &nbsp;Analytics</h2>
 
 <p align="center">
-  <img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxd&layout=compact&theme=nord&include_all_commits=true&alt='matxd most languages'" />
+  <img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxd&layout=compact&theme=nord&include_all_commits=true"/>
 </p>
