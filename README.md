@@ -11,9 +11,3 @@
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![ReactNative](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
-<h2 align="center">⚙️ &nbsp;Analytics</h2>
-
-<p align="center">
-  <img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matxd&layout=compact&theme=nord&include_all_commits=true"/>
-</p>
